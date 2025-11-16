@@ -2,7 +2,7 @@
 
 ¡Bienvenido a nuestros apuntes de Sistemas Operativos en Red! #fpinfor
 
-Última actualización 22/04/2024
+Última actualización 16/11/2025
 
 Este repositorio contiene apuntes detallados y organizados sobre sistemas operativos en red, cubriendo una variedad de temas relevantes para entender cómo funcionan los sistemas operativos en entornos de red, desde conceptos básicos hasta temas más avanzados.
 
